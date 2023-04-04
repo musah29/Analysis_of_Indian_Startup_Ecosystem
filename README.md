@@ -1,4 +1,4 @@
-# Analysis_of_Indian_Startup_EcosystemBeijing
+# Analysis_of_Indian_Startup_Ecosystem
 Uncovering Trends and Opportunities in the Indian Startup Ecosystem.
 
 Introduction
